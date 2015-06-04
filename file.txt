@@ -3,3 +3,5 @@ This is the seeded file before C0.
 This change was made for C1.
 
 Here is some text.
+
+This change was made for C2.
